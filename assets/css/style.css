@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #57aae1;
+  background: #a544f0;
   color: #fff;
 }
 
@@ -171,7 +171,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #4aa3df;
+  background: #a544f0;
 }
 
 .navbar .dropdown ul {
@@ -707,7 +707,7 @@ section {
 .services .icon-box::before {
   content: "";
   position: absolute;
-  background: #e1f0fa;
+  background: #a544f0;
   right: -60px;
   top: -40px;
   width: 100px;
@@ -920,7 +920,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #e1f0fa;
+  color: #a544f0;
   font-size: 26px;
 }
 
